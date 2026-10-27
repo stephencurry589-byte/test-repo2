@@ -1,0 +1,2 @@
+# Stdlib-only MVP. Optional for `python3 -m pytest`:
+# pytest>=7

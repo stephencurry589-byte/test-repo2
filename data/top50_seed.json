@@ -1,0 +1,91 @@
+{
+  "_comment": "PLACEHOLDER seed only — not a real Top-50 ranking or verified AUM. Edit freely. All rows marked placeholder.",
+  "as_of": "2026-10-27",
+  "label": "PLACEHOLDER",
+  "firms": [
+    {
+      "name": "Example Capital Alpha (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_10B",
+      "strategy": "growth",
+      "source_url": "https://example.com/placeholder-alpha",
+      "placeholder": true
+    },
+    {
+      "name": "Example Ventures Beta (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_5B",
+      "strategy": "early_stage",
+      "source_url": "https://example.com/placeholder-beta",
+      "placeholder": true
+    },
+    {
+      "name": "Example Partners Gamma (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_8B",
+      "strategy": "multi_stage",
+      "source_url": "https://example.com/placeholder-gamma",
+      "placeholder": true
+    },
+    {
+      "name": "Example Growth Delta (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_12B",
+      "strategy": "growth",
+      "source_url": "https://example.com/placeholder-delta",
+      "placeholder": true
+    },
+    {
+      "name": "Example Seed Epsilon (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_2B",
+      "strategy": "seed",
+      "source_url": "https://example.com/placeholder-epsilon",
+      "placeholder": true
+    },
+    {
+      "name": "Example Crypto Zeta (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_3B",
+      "strategy": "crypto_web3",
+      "source_url": "https://example.com/placeholder-zeta",
+      "placeholder": true
+    },
+    {
+      "name": "Example Bio Eta (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_4B",
+      "strategy": "life_sciences",
+      "source_url": "https://example.com/placeholder-eta",
+      "placeholder": true
+    },
+    {
+      "name": "Example Climate Theta (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_6B",
+      "strategy": "climate",
+      "source_url": "https://example.com/placeholder-theta",
+      "placeholder": true
+    },
+    {
+      "name": "Example Enterprise Iota (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_7B",
+      "strategy": "enterprise_saas",
+      "source_url": "https://example.com/placeholder-iota",
+      "placeholder": true
+    },
+    {
+      "name": "Example Consumer Kappa (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_1B",
+      "strategy": "consumer",
+      "source_url": "https://example.com/placeholder-kappa",
+      "placeholder": true
+    },
+    {
+      "name": "Example Fintech Lambda (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_9B",
+      "strategy": "fintech",
+      "source_url": "https://example.com/placeholder-lambda",
+      "placeholder": true
+    },
+    {
+      "name": "Example AI Mu (PLACEHOLDER)",
+      "aum_public": "PLACEHOLDER_USD_15B",
+      "strategy": "ai_infra",
+      "source_url": "https://example.com/placeholder-mu",
+      "placeholder": true
+    }
+  ]
+}
