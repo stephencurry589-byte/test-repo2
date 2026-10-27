@@ -23,6 +23,14 @@ Adapters may read **published / public** press, firm sites, public filings, and 
 - Full CID equity desk replacement (this sensor feeds that desk later)
 - Inventing real deal data as fact
 
+## Verification
+
+Re-runnable PROOF: see [VERIFICATION.md](./VERIFICATION.md).
+
+```bash
+.cursor/skills/verify-vc-aum-sensor/scripts/verify.sh run
+```
+
 ## Layout
 
 - `data/top50_seed.json` — editable firm stubs (≤15 placeholders)

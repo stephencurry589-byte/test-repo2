@@ -5,3 +5,6 @@ __pycache__/
 venv/
 .pytest_cache/
 .DS_Store
+
+# Verification run artifacts (PROOF may live outside repo)
+.cursor/skills/verify-vc-aum-sensor/artifacts/
